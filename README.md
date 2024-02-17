@@ -4,7 +4,7 @@
 
 O desafio consiste em:
 
-- Veja os estados de foco para elementos interativos, ou seja, constia na capacidade de ler a imagem do desafio para a sua realização, como entender hereditariedade, responsividade e butões.
+- Veja os estados de foco para elementos interativos, ou seja, constia na capacidade de ler a imagem do desafio para a sua realização, como entender hereditariedade, responsividade e botões.
 
 ## My process
 
@@ -17,5 +17,5 @@ O desafio consiste em:
 
 ### What I learned
 
-- Com esse desafio eu consegui treinar além da visão e imaginação, como transformar uma imagem em código, eu pude também treinar mais e entender mais sobre butão.
+- Com esse desafio eu consegui treinar além da visão e imaginação, como transformar uma imagem em código, eu pude também treinar mais e entender mais sobre botão.
 - Além disso entendi mais sobre caixas, sombras, etc...
